@@ -1,6 +1,8 @@
 # Arrays-Matrix
 
-#Bubble Sort Algorithm
+Program to add , subtract, multiply and display two dimensional array
+
+# Bubble Sort Algorithm
 
 In bubble sort, the array of integers is traversed from index 0 to length-1.
 
